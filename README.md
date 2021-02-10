@@ -1,8 +1,8 @@
 # CNN Annotator
 
-<!--- Train the CNN on Colab: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lowe-lab-ucl/cnn-annotator/blob/main/notebooks/C_CNN_Training_and_Validation.ipynb) -->
+Train the CNN on Colab: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lowe-lab-ucl/cnn-annotator/blob/main/notebooks/C_CNN_Training_and_Validation.ipynb)
 
-Train the CNN on Colab: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KristinaUlicna/cnn-annotator/blob/main/notebooks/C_CNN_Training_and_Validation.ipynb)
+<!--- Train the CNN on Colab: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KristinaUlicna/cnn-annotator/blob/main/notebooks/C_CNN_Training_and_Validation.ipynb) -->
 
 
 #### TODOs:
