@@ -26,7 +26,7 @@ Kristina's TODOs:
 - [ ] Relative contrib of zipfiles to patch counts
 - [ ] Class patch count figure to Colab
 - [ ] Record video how to annotate in napari
-- [ ] Colab notebook link to Lowe-Lab-UCL
+- [x] Colab notebook link to Lowe-Lab-UCL
 ---
 
 Happy coding!
