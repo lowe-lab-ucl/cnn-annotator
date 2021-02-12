@@ -4,6 +4,9 @@ Train the CNN on Colab: [![Colab](https://colab.research.google.com/assets/colab
 
 <!--- Train the CNN on Colab: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KristinaUlicna/cnn-annotator/blob/main/notebooks/C_CNN_Training_and_Validation.ipynb) -->
 
+Test the CNN on Colab: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chris-soelistyo/cnn-annotator/blob/Chris_Branch/notebooks/D_CNN_Prediction_and_Testing.ipynb)
+
+
 
 #### TODOs:
 
@@ -17,8 +20,8 @@ Train the CNN on Colab: [![Colab](https://colab.research.google.com/assets/colab
 - [ ] Add label statistic to napari annotator widget.
 - [x] Export image patches from napari annotator as tif files/zip file.    
 - [x] Allow loading of zip training data in Colab notebook.   
-- [ ] Add confusion matrix final output in colab notebook.
-- [ ] Model evaluation + predictions on unseen data
+- [x] Add confusion matrix final output in colab notebook.
+- [x] Model evaluation + predictions on unseen data
 ---
 
 Kristina's TODOs:
