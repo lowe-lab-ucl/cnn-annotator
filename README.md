@@ -20,8 +20,8 @@ Test the CNN on Colab: [![Colab](https://colab.research.google.com/assets/colab-
 - [ ] Add label statistic to napari annotator widget.
 - [x] Export image patches from napari annotator as tif files/zip file.    
 - [x] Allow loading of zip training data in Colab notebook.   
-- [ ] Add confusion matrix final output in colab notebook.
-- [ ] Model evaluation + predictions on unseen data
+- [x] Add confusion matrix final output in colab notebook.
+- [x] Model evaluation + predictions on unseen data
 ---
 
 Kristina's TODOs:
