@@ -1,15 +1,12 @@
 # CNN Annotator
 
-Train the CNN on Colab: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lowe-lab-ucl/cnn-annotator/blob/main/notebooks/C_CNN_Training_and_Validation.ipynb)
+Training: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lowe-lab-ucl/cnn-annotator/blob/main/notebooks/C_CNN_Training_and_Validation.ipynb)
 
 <!--- Train the CNN on Colab: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KristinaUlicna/cnn-annotator/blob/main/notebooks/C_CNN_Training_and_Validation.ipynb) -->
 
-Test the CNN on Colab: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lowe-lab-ucl/cnn-annotator/blob/main/notebooks/D_CNN_Prediction_and_Testing.ipynb)
+Inference: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lowe-lab-ucl/cnn-annotator/blob/main/notebooks/D_CNN_Prediction_and_Testing.ipynb)
 
 <!---Test the CNN on Colab: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chris-soelistyo/cnn-annotator/blob/Chris_Branch/notebooks/D_CNN_Prediction_and_Testing.ipynb) -->
-
-https://github.com/lowe-lab-ucl/cnn-annotator
-
 
 
 #### TODOs:
