@@ -1,8 +1,12 @@
 .h5
+*.h5
 .ipynb_checkpoints
 .json
 .DS_Store
 .zip
+*.zip
+annotation*
 .npz
+~$*
 
 assets/Fig*
