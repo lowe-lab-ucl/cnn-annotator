@@ -33,6 +33,17 @@ Kristina's TODOs:
 - [x] Colab notebook link to Lowe-Lab-UCL
 ---
 
+### Installation
+
+Clone the repo locally and create a clean `conda` environment with all needed packages to run notebooks A & B on your local machine using the following commands:
+
+```sh
+git clone https://github.com/lowe-lab-ucl/cnn-annotator.git
+cd cnn-annotator
+conda env create -f ./environment.yml
+conda activate cnn-annotator
+```
+
 Happy coding!
 
 ... Your CellX team
