@@ -1,5 +1,4 @@
 .h5
-*.h5
 .ipynb_checkpoints
 .json
 .DS_Store
