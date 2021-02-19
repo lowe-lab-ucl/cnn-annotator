@@ -3,4 +3,9 @@
 .json
 .DS_Store
 .zip
+*.zip
+annotation*
 .npz
+~$*
+
+assets/Fig*

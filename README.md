@@ -1,15 +1,12 @@
 # CNN Annotator
 
-Train the CNN on Colab: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lowe-lab-ucl/cnn-annotator/blob/main/notebooks/C_CNN_Training_and_Validation.ipynb)
+Training: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lowe-lab-ucl/cnn-annotator/blob/main/notebooks/C_CNN_Training_and_Validation.ipynb)
 
 <!--- Train the CNN on Colab: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KristinaUlicna/cnn-annotator/blob/main/notebooks/C_CNN_Training_and_Validation.ipynb) -->
 
-Test the CNN on Colab: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lowe-lab-ucl/cnn-annotator/blob/main/noteboo/D_CNN_Prediction_and_Testing.ipynb)
+Inference: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lowe-lab-ucl/cnn-annotator/blob/main/notebooks/D_CNN_Prediction_and_Testing.ipynb)
 
 <!---Test the CNN on Colab: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chris-soelistyo/cnn-annotator/blob/Chris_Branch/notebooks/D_CNN_Prediction_and_Testing.ipynb) -->
-
-https://github.com/lowe-lab-ucl/cnn-annotator
-
 
 
 #### TODOs:
@@ -35,6 +32,17 @@ Kristina's TODOs:
 - [ ] Record video how to annotate in napari
 - [x] Colab notebook link to Lowe-Lab-UCL
 ---
+
+### Installation
+
+Clone the repo locally and create a clean `conda` environment with all needed packages to run notebooks A & B on your local machine using the following commands:
+
+```sh
+git clone https://github.com/lowe-lab-ucl/cnn-annotator.git
+cd cnn-annotator
+conda env create -f ./environment.yml
+conda activate cnn-annotator
+```
 
 Happy coding!
 
