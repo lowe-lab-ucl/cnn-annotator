@@ -7,7 +7,7 @@
 | Notebook | Description | Link |
 | --- | --- | --- |
 | *Training* | Train the CNN using annotated image patches | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lowe-lab-ucl/cnn-annotator/blob/main/notebooks/C_CNN_Training_and_Validation.ipynb) |
-| *Inference* | Use the trained CNN to perform predictions and clustering | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lowe-lab-ucl/cnn-annotator/blob/main/notebooks/D_CNN_Prediction_and_Testing.ipynb) |
+| *Inference* | Use the trained CNN to perform predictions and clustering | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lowe-lab-ucl/cnn-annotator/blob/main/notebooks/D_CNN_Inference_and_Embedding.ipynb) |
 
 ### Installation
 
