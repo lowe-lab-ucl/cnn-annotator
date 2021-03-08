@@ -1,12 +1,28 @@
 # CNN Annotator
 
-Training: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lowe-lab-ucl/cnn-annotator/blob/main/notebooks/C_CNN_Training_and_Validation.ipynb)
+### Convolutional neural networks for classifying chromatin morphology in live cell imaging
 
-<!--- Train the CNN on Colab: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KristinaUlicna/cnn-annotator/blob/main/notebooks/C_CNN_Training_and_Validation.ipynb) -->
 
-Inference: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lowe-lab-ucl/cnn-annotator/blob/main/notebooks/D_CNN_Prediction_and_Testing.ipynb)
 
-<!---Test the CNN on Colab: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chris-soelistyo/cnn-annotator/blob/Chris_Branch/notebooks/D_CNN_Prediction_and_Testing.ipynb) -->
+| Notebook | Description | Link |
+| --- | --- | --- |
+| *Training* | Train the CNN using annotated image patches | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lowe-lab-ucl/cnn-annotator/blob/main/notebooks/C_CNN_Training_and_Validation.ipynb) |
+| *Inference* | Use the trained CNN to perform predictions and clustering | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lowe-lab-ucl/cnn-annotator/blob/main/notebooks/D_CNN_Prediction_and_Testing.ipynb) |
+
+### Installation
+
+Clone the repo locally and create a clean `conda` environment with all needed packages to run notebooks A & B on your local machine using the following commands:
+
+```sh
+git clone https://github.com/lowe-lab-ucl/cnn-annotator.git
+cd cnn-annotator
+conda env create -f ./environment.yml
+conda activate cnn-annotator
+```
+
+Happy coding!
+
+... Your CellX team
 
 
 #### TODOs:
@@ -33,17 +49,4 @@ Kristina's TODOs:
 - [x] Colab notebook link to Lowe-Lab-UCL
 ---
 
-### Installation
 
-Clone the repo locally and create a clean `conda` environment with all needed packages to run notebooks A & B on your local machine using the following commands:
-
-```sh
-git clone https://github.com/lowe-lab-ucl/cnn-annotator.git
-cd cnn-annotator
-conda env create -f ./environment.yml
-conda activate cnn-annotator
-```
-
-Happy coding!
-
-... Your CellX team
