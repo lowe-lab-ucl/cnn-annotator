@@ -3,7 +3,7 @@
 
 <img width="50%" align="right" alt="Protocol" src="assets/napari_annotator.png" />
 
-Welcome to our [CNN Annotator repository](https://github.com/lowe-lab-ucl/cnn-annotator "CNN Annotator repository || Lowe Lab UCL") where you can find our recent *Methods to Molecular Biology (MiMB) protocol* on how to use a convolutional neural network (CNN) to classify time-lapse microscopy single-cell images patches according to live-cell chromatin morphology.
+Welcome to our [CNN Annotator repository](https://github.com/lowe-lab-ucl/cnn-annotator "CNN Annotator repository || Lowe Lab UCL") where you can find our recent *Methods in Molecular Biology (MiMB) protocol* on how to use a convolutional neural network (CNN) to classify time-lapse microscopy single-cell images patches according to live-cell chromatin morphology.
 
 **Wondering what such pipeline could be used for?** Check out our recent publications where we made use of CNNs for classifying cells in live-cell imaging:
 - [Ulicna *et al.*, bioRxiv, 2020](https://www.biorxiv.org/content/10.1101/2020.09.10.276980v1.full "Automated deep lineage tree analysis using a Bayesian single cell tracking approach") - Automated deep lineage tree analysis using a Bayesian single cell tracking approach
@@ -18,7 +18,7 @@ We provide a detailed walk-through for annotating live-cell microscopy images an
 
 For more detailed instructions on how to annotate your microscopy data, train the CNN classifier and infer labels on previously unseen images, please refer to [this step-wise manual](/notebooks/README.md "Protocol Methods").
 
-Please use these links to proceed with the training and inference of your CNN models in the Google Colab environment:
+Please use these links to proceed with the training and inference of your CNN models in the **Google Colab** environment:
 
 
 | Notebook | Description | Link |

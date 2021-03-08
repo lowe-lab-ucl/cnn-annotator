@@ -1,4 +1,4 @@
-# CNN-Annotator Repository Structure
+# Notebooks & Repository Structure
 
 ![Protocol Pipeline](../assets/repository_structure.png)
 
