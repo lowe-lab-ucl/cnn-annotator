@@ -6,4 +6,7 @@
 .npz
 ~$*
 
+notebooks/Copy_*
+notebooks/api_test.ipynb
 assets/Fig*
+assets/patch_grid_*.png
