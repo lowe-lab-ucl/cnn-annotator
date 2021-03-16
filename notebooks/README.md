@@ -1,6 +1,11 @@
 # Notebooks & Repository Structure
 
-![Protocol Pipeline](../assets/repository_structure.png)
+## Abstract
+
+<img width="60%" align="right" alt="Protocol Pipeline" src="../assets/repository_structure.png" />
+
+Chromatin is a highly organised structure and the changes in its condensation level reflect many cellular processes, including cell division and cell death. Recently, advances in machine learning have enabled researchers to automatically classify chromatin morphology in fluorescence microscopy images.  In this protocol, we develop user friendly tools to perform this task. We provide an open-source annotation tool, and a cloud-based computational framework to train and utilise a convolutional neural network to automatically classify chromatin morphology. Using cloud compute enables users without significant resources or computational experience to use a machine learning approach to analyse their own microscopy data.
+
 
 ### Annotating CNN training images using *Napari*:
 
