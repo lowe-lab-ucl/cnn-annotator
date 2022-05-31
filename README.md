@@ -6,8 +6,8 @@
 Welcome to our [CNN Annotator repository](https://github.com/lowe-lab-ucl/cnn-annotator "CNN Annotator repository || Lowe Lab UCL") where you can find our recent *protocol* on how to use a simple convolutional neural network (CNN) to classify time-lapse microscopy single-cell images patches according to live-cell chromatin morphology.
 
 **Wondering what such pipeline could be used for?** Check out our recent publications where we made use of CNNs for classifying cells in live-cell imaging:
-- [Ulicna *et al.*, bioRxiv, 2020](https://www.biorxiv.org/content/10.1101/2020.09.10.276980v1.full "Automated deep lineage tree analysis using a Bayesian single cell tracking approach") - Automated deep lineage tree analysis using a Bayesian single cell tracking approach
-- [Bove *et al.*, MBoC, 2017](https://www.molbiolcell.org/doi/10.1091/mbc.E17-06-0368?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed "Local cellular neighbourhood controls proliferation in cell competition") - Local cellular neighbourhood controls proliferation in cell competition
+- [Ulicna *et al.*, Frontiers in Computer Science, 2021](https://www.frontiersin.org/articles/10.3389/fcomp.2021.734559/full "Automated deep lineage tree analysis using a Bayesian single cell tracking approach") - Automated deep lineage tree analysis using a Bayesian single cell tracking approach
+- [Bove *et al.*, Molecular Biology of the Cell, 2017](https://www.molbiolcell.org/doi/10.1091/mbc.E17-06-0368?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed "Local cellular neighbourhood controls proliferation in cell competition") - Local cellular neighbourhood controls proliferation in cell competition
 
 
 ### How to navigate this repository
