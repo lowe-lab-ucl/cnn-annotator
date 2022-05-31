@@ -1,7 +1,7 @@
 # Convolutional neural networks 🖥️ for classifying chromatin morphology 🧬 in live cell imaging 🔬
 <br/>
 
-<img width="50%" align="right" alt="Protocol" src="assets/napari_annotator.png" />
+<img width="60%" align="right" alt="Protocol" src="assets/napari_annotator.png" />
 
 Welcome to our [CNN Annotator repository](https://github.com/lowe-lab-ucl/cnn-annotator "CNN Annotator repository || Lowe Lab UCL") where you can find our recent *protocol* on how to use a simple convolutional neural network (CNN) to classify time-lapse microscopy single-cell images patches according to live-cell chromatin morphology.
 
