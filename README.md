@@ -37,7 +37,38 @@ cd cnn-annotator
 conda env create -f ./environment.yml
 conda activate cnn-annotator
 ```
+
 ---
+### Citation
+
+More detailed protocol with step-by-step instructions on how to apply this type of image analysis tool to you own data can be found in the following publication. If you find this protocol useful for your research, please do cite us as follows:
+
+**Convolutional Neural Networks for Classifying Chromatin Morphology in Live-Cell Imaging**  
+Ulicna K, Ho LTL, Soelistyo CJ, Day NJ, Lowe AR    
+*Chromosome Architecture. Methods in Molecular Biology* (2022)  
+[![doi:10.1007/978-1-0716-2221-6_3](https://img.shields.io/badge/doi-10.3389%2Ffcomp.2021.734559-blue)](https://doi.org/10.1007/978-1-0716-2221-6_3)
+
+
+```
+@Inbook{Ulicna2022,
+    author="Ulicna, Kristina
+    and Ho, Laure T. L.
+    and Soelistyo, Christopher J.
+    and Day, Nathan J.
+    and Lowe, Alan R.",
+    editor="Leake, Mark C.",
+    title="Convolutional Neural Networks for Classifying Chromatin Morphology in Live-Cell Imaging",
+    bookTitle="Chromosome Architecture: Methods and Protocols ",
+    year="2022",
+    publisher="Springer US",
+    address="New York, NY",
+    pages="17--30",
+    abstract="Chromatin is highly structured, and changes in its organization are essential in many cellular processes, including cell division. Recently, advances in machine learning have enabled researchers to automatically classify chromatin morphology in fluorescence microscopy images. In this protocol, we develop user-friendly tools to perform this task. We provide an open-source annotation tool, and a cloud-based computational framework to train and utilize a convolutional neural network to automatically classify chromatin morphology. Using cloud compute enables users without significant resources or computational experience to use a machine learning approach to analyze their own microscopy data.",
+    isbn="978-1-0716-2221-6",
+    doi="10.1007/978-1-0716-2221-6_3",
+    url="https://doi.org/10.1007/978-1-0716-2221-6_3"
+}
+```
 
 *Happy coding!* <br/>
 ... **Your [CellX](http://lowe.cs.ucl.ac.uk/cellx.html "Lowe Lab UCL") team**
