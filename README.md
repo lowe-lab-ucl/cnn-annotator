@@ -46,7 +46,7 @@ More detailed protocol with step-by-step instructions on how to apply this type 
 **Convolutional Neural Networks for Classifying Chromatin Morphology in Live-Cell Imaging**  
 Ulicna K, Ho LTL, Soelistyo CJ, Day NJ, Lowe AR    
 *Chromosome Architecture. Methods in Molecular Biology* (2022)  
-[![doi:10.1007/978-1-0716-2221-6_3](https://img.shields.io/badge/doi-10.3389%2Ffcomp.2021.734559-blue)](https://doi.org/10.1007/978-1-0716-2221-6_3)
+[![doi:10.1007/978-1-0716-2221-6_3](https://img.shields.io/static/v1?label=doi&message=10.1007/978-1-0716-2221-6_3&color=blue)](https://doi.org/10.1007/978-1-0716-2221-6_3)
 
 
 ```
